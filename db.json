@@ -2,8 +2,8 @@
   "posts": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+       "url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2677520025.jpg",
+       "title": "龙虎武师",
     },
      {
       "id": 1,
